@@ -1,0 +1,19 @@
+[
+  {
+    "remote":"github",
+    "repository":"NusantaraROM-Devices/vendor_xiaomi_surya",
+    "target_path":"vendor/xiaomi/surya",
+    "branch":"11"
+  },
+  {
+    "remote":"github",
+    "repository":"ghostrider-reborn/android_kernel_xiaomi_surya",
+    "target_path":"kernel/xiaomi/surya",
+  },
+  {
+    "remote":"github",
+    "repository":"Nusantara-ROM/android_hardware_qcom_display",
+    "target_path":"hardware/qcom-caf/sm8150/display",
+    "branch":"11-sm8150-r"
+  }
+]
